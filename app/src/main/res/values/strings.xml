@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WApp - Weather App</string>
+    <string name="logo">WApp - Weather App</string>
+    <string name="hint_enter_city">Введите город</string>
+    <string name="find_out_the_weather">Узнать погоду</string>
+    <string name="enter_city_name">Введите название города!</string>
 </resources>
